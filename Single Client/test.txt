@@ -1,3 +1,0 @@
-Hello, this is a test file.
-It will be transferred to the server and sent back.
-Checksum verification will confirm its integrity.
